@@ -1,0 +1,9 @@
+It took me 10 minutes to make lol.
+
+DIRECTIONS:
+1: Open up the java script (.js if you are dumb lol)
+2: N is the starting number. Change it to a number of your choice
+3: Double click the "index.html" file to open it in chrome
+4: Open up inspect element and then go to console
+5: If you have a super powerful computer, you can change the "repeat = 2" to "repeat = 1" to continuously add 1 to n
+when the loop starts happening
